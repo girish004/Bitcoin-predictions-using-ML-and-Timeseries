@@ -1,5 +1,9 @@
 # Bitcoin-predictions-using-ML-and-Timeseries
-Performing machine learning techniques and deep learning techniques to predict the close price of Bitcoin
+1. To find an appropriate dataset historical dataset for bitcoin.
+2. Do the required pre-processings to work further on the data for analytics as well as predictions.
+3. Predict the close price of bitcoin for the given dataset using multiple machine learning techniques.
+4. Compare and analyze as to which machine learning algorithm works well for the given bitcoin historic data.
+
 
 # FINANCIAL MANAGEMENT (MGT-1029)
 
